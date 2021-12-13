@@ -1,10 +1,7 @@
-- 👋 Hi, I’m Ranie Tavarez P.
+Hi, I’m Ranie Tavarez P.
 
-- Right now I'm just learning all that I can.
+Right now I'm just learning all that I can.
 
-- I like Vue.js.
-
-- I’m learning: Nuxt.js and PWA.
 
 <!---
 EinarMusic/EinarMusic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
